@@ -2,7 +2,7 @@
 # Based on YOLOv5 nano with optimizations for small object detection
 
 # Parameters
-nc: 2  # number of classes: RKN and FLN (root-knot and free-living nematodes)
+nc: 1  # number of classes: Beet_Cysts
 depth_multiple: 0.33  # model depth multiple
 width_multiple: 0.25  # layer channel multiple
 
