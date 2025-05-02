@@ -258,3 +258,4 @@ crashlytics-build.properties
 fabric.properties
 dataset_yolo5
 datasets
+!NemaCount/cyst_model.pt
